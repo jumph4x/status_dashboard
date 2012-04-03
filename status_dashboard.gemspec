@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency('rails', '>= 3.0.7')
-  s.add_dependency('activeadmin')
-  s.add_dependency('rdiscount')
+  #s.add_dependency('activeadmin')
+  #s.add_dependency('rdiscount')
 end
